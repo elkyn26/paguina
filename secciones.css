@@ -1,0 +1,130 @@
+body{
+	background-image: url(jajaja.gif);
+}
+
+
+h2{
+	font-size: 35px;
+	color: yellow;
+}
+
+h3{
+	font-size: 20px;
+	line-height: 1.5;
+	padding-top: 20px;
+	font-weight: normal;
+	color: yellow;
+}
+
+h4{
+	margin-top: 15px;
+	font-size: 25px;
+	text-align: center;
+	color: skyblue;
+}
+
+h5{
+	list-style: 1.5;
+	font-weight: normal;
+	padding: 10px 0;
+	font-size: 12px;
+}
+
+P{
+	color: yellow;
+	font-size: 20px;
+	text-align: justify;
+	margin-top: 20px;
+}
+
+.wap{
+	width: 40%;
+	margin: auto;
+
+}
+
+.bienvenido{
+	margin-top: 50px;
+	text-align: center;
+	color: #888;
+}
+
+.columnas{
+	width: 100%;
+	margin: auto;
+	margin-bottom: auto;
+}
+
+.col3{
+	width: 33.333%;
+	float: left;
+	padding: 20px 20px;
+	box-sizing: border-box;
+	margin: auto;
+}
+
+
+.col3 img {
+    width: 100%;
+    margin-right: 3px; 
+}
+.col3 img:hover{
+    opacity: 0.85;
+    opacity: 0.5;
+    transition: 0.6s;
+    position: relative;
+}
+
+.col4{
+	width: 31.777%;
+	margin-left: 20px;
+	float: left;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+	border: 2px solid #555;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.col4 h4{
+	height: 30px;
+	color: #444;
+}
+
+.col4:hover{
+	background: yellow;
+	transition: 0.9s;
+}
+
+
+.banner{
+	background: #1ABC9C;
+	clear: both;
+	padding-top: 33px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: center;
+	transition: 0.8s;
+}	
+
+.banner:hover{
+	background: #444;
+	transition: 0.8s;
+}
+
+.banner h3{
+	font-size: 28px;
+	color: #fff;
+}
+
+.banner a{
+	text-decoration: none;
+	margin-left: 20px;
+	font-weight: bold;
+	color: #fff;
+	border-bottom: 2px solid #fff;
+}
+
+.redes{
+	width: auto;
+}
